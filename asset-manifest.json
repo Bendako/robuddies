@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robuddies/static/css/main.85f912e0.css",
+    "main.js": "/robuddies/static/js/main.d7e175f1.js",
+    "static/js/787.7c837d6d.chunk.js": "/robuddies/static/js/787.7c837d6d.chunk.js",
+    "index.html": "/robuddies/index.html",
+    "main.85f912e0.css.map": "/robuddies/static/css/main.85f912e0.css.map",
+    "main.d7e175f1.js.map": "/robuddies/static/js/main.d7e175f1.js.map",
+    "787.7c837d6d.chunk.js.map": "/robuddies/static/js/787.7c837d6d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85f912e0.css",
+    "static/js/main.d7e175f1.js"
+  ]
+}
